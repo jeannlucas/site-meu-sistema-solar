@@ -5,9 +5,9 @@ Este repositório contém o código-fonte do site institucional da empresa fict�
 
 ## 🔗 Acesse o site
 
-Você pode visualizar o site em funcionamento através do GitHub Pages:
+Você pode visualizar o site em funcionamento através da Vercel:
 
-👉 [https://jeannlucas.github.io/site-meu-sistema-solar]
+👉 [https://site-meu-sistema-solar.vercel.app/]
 
 ## 🧰 Tecnologias Utilizadas
 
