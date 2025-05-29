@@ -16,24 +16,6 @@ Você pode visualizar o site em funcionamento através do GitHub Pages:
 - **JavaScript**: Interatividade e funcionalidades dinâmicas.
 - **GitHub Pages**: Hospedagem gratuita do site.
 
-## 📁 Estrutura do Projeto
-
-```
-
-site-meu-sistema-solar/
-├── css/               # Arquivos CSS compilados
-├── scss/              # Arquivos SCSS (pré-processador CSS)
-├── js/                # Scripts JavaScript
-├── img/               # Imagens utilizadas no site
-├── lib/               # Bibliotecas e plugins externos
-├── franquia/          # Página dedicada para interessados em franquias
-├── index.html         # Página inicial
-├── about.html         # Página "Sobre Nós"
-├── service.html       # Página de serviços oferecidos
-├── contact-off.html   # Página de contato (em desenvolvimento)
-└── 404.html           # Página de erro personalizada
-
-````
 
 ## 🚀 Como Executar Localmente
 
@@ -59,5 +41,4 @@ site-meu-sistema-solar/
 * **Navegação Intuitiva**: Menu claro e objetivo para facilitar a experiência do usuário.
 * **Conteúdo Informativo**: Seções que explicam os benefícios da energia solar e os serviços prestados.
 * **Página de Franquias**: Informações para interessados em se tornar franqueados da empresa.
-
 
