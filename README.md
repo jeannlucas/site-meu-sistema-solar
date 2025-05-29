@@ -1,5 +1,3 @@
-Claro! Aqui está o conteúdo formatado como um arquivo `.md`:
-
 ```markdown
 # 🌞 Site Institucional — Meu Sistema Solar
 
